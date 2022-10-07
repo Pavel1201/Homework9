@@ -7,9 +7,6 @@ void PrintNaturalNumbers(int maximum)
     if (maximum == 1)
     {
         Console.Write($"{maximum} ");
-
-
-
     }
     else
     {
